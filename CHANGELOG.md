@@ -53,7 +53,7 @@
 * remove duplicate session GET when using API server, unbreak auto_session_create when using API server ([445dc18](https://github.com/google/adk-python/commit/445dc189e915ce5198e822ad7fadd6bb0880a95e))
 * Remove experimental decorators from user persona data models ([eccdf6d](https://github.com/google/adk-python/commit/eccdf6d01e70c37a1e5aa47c40d74469580365d2))
 * Replace the global DEFAULT_USER_PERSONA_REGISTRY with a function call to get_default_persona_registry ([2703613](https://github.com/google/adk-python/commit/2703613572a38bf4f9e25569be2ee678dc91b5b5))
-* **skill:** coloate default skill SI with skilltoolset ([fc1f1db](https://github.com/google/adk-python/commit/fc1f1db00562a79cd6c742cfd00f6267295c29a8))
+* **skill:** colocate default skill SI with skilltoolset ([fc1f1db](https://github.com/google/adk-python/commit/fc1f1db00562a79cd6c742cfd00f6267295c29a8))
 * Update agent_engine_sandbox_code_executor in ADK ([ee8d956](https://github.com/google/adk-python/commit/ee8d956413473d1bbbb025a470ad882c1487d8b8))
 * Update agent_engine_sandbox_code_executor in ADK ([dab80e4](https://github.com/google/adk-python/commit/dab80e4a8f3c5476f731335724bff5df3e6f3650))
 * Update sample skills agent to use weather-skill instead of weather_skill ([8f54281](https://github.com/google/adk-python/commit/8f5428150d18ed732b66379c0acb806a9121c3cb))
