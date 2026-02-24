@@ -1,6 +1,6 @@
 # Changelog
 
-## [2.0.0](https://github.com/google/adk-python/compare/v1.25.1...v2.0.0) (2026-02-24)
+## [1.26.0](https://github.com/google/adk-python/compare/v1.25.1...v1.26.0) (2026-02-24)
 
 
 ### ⚠ BREAKING CHANGES
