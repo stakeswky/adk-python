@@ -5,7 +5,7 @@
 
 ### ⚠ BREAKING CHANGES
 
-* **skill:** coloate default skill SI with skilltoolset
+* **skill:** colocate default skill SI with skilltoolset
 
 ### Features
 
